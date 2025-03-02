@@ -1,4 +1,5 @@
-class employee(
+//this defines the employee class and the function that does the calculation
+class Employee(
     var name: String,
     var position: PositionTitle ,
     var salary: Boolean,
